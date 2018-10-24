@@ -1,4 +1,5 @@
 # Guardians of the Galaxy Quiz (Friend Finder)
+[View the working site here](https://enigmatic-depths-79110.herokuapp.com/ "Guardians Quiz")
 
 Image
 ![alt text](./app/public/assets/images/guardians.png "Guardians of the Galaxy Quiz")
@@ -36,10 +37,6 @@ Image
 
 #### Bask in the similarities between you and another person!
 
-
-Video Link
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=#########" target="_blank"><img src="./app/public/assets/images/guardians.png" alt="Guardians of the Galaxy Quiz" width="700" height="400"/></a>
 
 <br>
 
